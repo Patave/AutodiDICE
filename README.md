@@ -1,9 +1,9 @@
 # AutodiDICE
 Electronic DICE
-
+[]()
 ## Objectifs :
 
-`Création Dé electronqiue sur base Attiny 85 de A à Z`
+`Création Dé electronique sur base Attiny 85 de A à Z`
 
 Detection de vibration (switch mercure)
 
