@@ -1,6 +1,6 @@
 # AutodiDICE
 Electronic DICE
-[]()
+![](IMG_3946.jpg)
 ## Objectifs :
 
 `Création Dé electronique sur base Attiny 85 de A à Z`
