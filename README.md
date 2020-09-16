@@ -11,9 +11,9 @@ Mode Sleep et arret automatique après 7 secondes
 
 Fonctionnel dans tous les sens (s'active sur un front montant du switch)
 
-Ma Video: ???
+Ma Video: https://www.youtube.com/watch?v=F5hV5DrT228
 
-3D STL Files: ???
+3D STL Files: https://www.thingiverse.com/thing:4596834
 
 Fichier GERBER pour production carte à souder: ???
 
