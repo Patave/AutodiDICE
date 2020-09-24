@@ -3,7 +3,7 @@ Electronic DICE
 ![](IMG_3946.jpg)
 ## Objectifs :
 
-`Création Dé electronique sur base Attiny 85 de A à Z`
+`Création Dé electronique sur base Attiny 85 et Attiny13A de A à Z`
 
 Detection de vibration (switch mercure)
 
@@ -15,7 +15,7 @@ Ma Video: https://www.youtube.com/watch?v=F5hV5DrT228
 
 3D STL Files: https://www.thingiverse.com/thing:4596834
 
-Fichier GERBER pour production carte à souder: ???
+Fichier GERBER pour production carte à souder
 
 *Développement Electronique sous EasyEDA*
 
@@ -25,9 +25,10 @@ Fichier GERBER pour production carte à souder: ???
 
 ```
 - Developpement Soft
-  - Micro controlleur Attiny 85 (Evolution en Attiny13 pour encore diminuer le prix)
+  - Micro controlleur Attiny 85 + Evolution en Attiny13 pour encore diminuer le prix.
   - Fonction Sleep intégrée pour limiter la consommation
-  - Animation du tirage dé amusante (rotation des leds)
+  - Animation du tirage dé amusante (rotation des leds) - pas possible pour la version Attiny13 (trop gros en octets)
+  - V1.0: Verion Attiny85, v2.0: Version Attiny13
 
 - Développement Electronique
   - réalisation sous EasyEDA
